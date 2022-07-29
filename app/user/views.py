@@ -1,4 +1,3 @@
-from yaml import serialize
 from rest_framework import generics
 
 from user.serializers import UserSerializer
